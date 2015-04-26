@@ -27,7 +27,9 @@ along side run_analysis.R.
 Please note- the setwd() is just an example. Change it to respective one as applicable for you.
 
 > setwd("C:/Study/Coursera/GettingAndClearningData/Week3/Final_Work/Getting_And_Cleaning_Data")
+
 > source("run_analysis.R")
+
 [1] "reading subject test data."
 [1] "reading data from test data."
 [1] "reading labels from test data."
